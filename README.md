@@ -38,8 +38,11 @@ JAVHDPorn Downloader is designed for a simple workflow: paste an individual supp
 
 ### Desktop Experience
 
-- Choose Light, Dark, or branded Icon themes.
+- Choose Light, Dark, or branded JAVHD themes.
 - Remember the selected theme between launches.
+- Check GitHub automatically for newer releases.
+- Download update installers in the background and verify their SHA-256 digest.
+- Review the release changelog before choosing whether to install an update.
 - Open the destination folder directly from the app.
 - Use a self-contained Windows installation with no separate Python setup.
 - Launch from the Start Menu or an optional desktop shortcut.
