@@ -22,6 +22,7 @@ JAVHDPorn Downloader is designed for a simple workflow: paste an individual supp
 
 - Download individual public JAVHDPorn video pages.
 - Resolve the public player through the bundled WebView2 integration.
+- Support the site's current embedded JW Player and extensionless MP4 links.
 - Select the best available stream quality automatically.
 - Display download progress, speed, and status.
 - Cancel an active download when needed.
