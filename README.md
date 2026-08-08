@@ -26,12 +26,15 @@ JAVHDPorn Downloader is designed for a simple workflow: paste an individual supp
 - Display download progress, speed, and status.
 - Cancel an active download when needed.
 - Choose any destination folder for completed videos.
+- Use 1, 2, 4, or 8 parallel connections for faster fragment downloads.
+- Choose Best, 1080p, 720p, or 480p quality.
 
 ### Protected Stream Support
 
 - Decode the site's image-wrapped HLS media fragments automatically.
 - Strip non-video wrappers before joining media segments.
 - Retry incomplete or interrupted fragment responses.
+- Preserve playlist order while downloading multiple fragments concurrently.
 - Reject missing, truncated, or invalid fragments.
 - Remux clean H.264 and AAC streams into a playable MP4.
 - Remove temporary fragments after completion or failure.
