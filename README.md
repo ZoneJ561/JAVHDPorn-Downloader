@@ -28,6 +28,7 @@ JAVHDPorn Downloader is designed for a simple workflow: paste an individual supp
 - Cancel an active download when needed.
 - Choose any destination folder for completed videos.
 - Use 1, 2, 4, or 8 parallel connections for faster fragment downloads.
+- Use parallel HTTP byte ranges for faster downloads from seekable MP4 hosts.
 - Choose Best, 1080p, 720p, or 480p quality.
 
 ### Protected Stream Support
