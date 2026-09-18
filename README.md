@@ -36,6 +36,7 @@ JAVHDPorn Downloader is designed for a simple workflow: paste an individual supp
 - Decode the site's image-wrapped HLS media fragments automatically.
 - Strip non-video wrappers before joining media segments.
 - Retry incomplete or interrupted fragment responses.
+- Time out and retry dead fragment requests instead of freezing at 99.9%.
 - Preserve playlist order while downloading multiple fragments concurrently.
 - Reject missing, truncated, or invalid fragments.
 - Remux clean H.264 and AAC streams into a playable MP4.
